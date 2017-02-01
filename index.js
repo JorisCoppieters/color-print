@@ -3,9 +3,12 @@
 // ******************************
 //
 //
-// COLOR PRINT LIBRARY v1.0.0
+// COLOR PRINT LIBRARY v1.0.1
 //
 // Version History:
+//
+// 1.0.1
+// - Added tests
 //
 // 1.0.0
 // - Stable release
