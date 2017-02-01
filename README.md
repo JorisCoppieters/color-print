@@ -1,6 +1,6 @@
-# Color Print
+# color-print
 
-color-print is a node utility for printing in colour
+color-print is a Node utility for printing in color
 
 ### Installation
 

@@ -1,0 +1,19 @@
+{
+  "name": "color-print",
+  "version": "1.0.0",
+  "description": "color-print is a node utility for printing in colour",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorisCoppieters/color-print.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JorisCoppieters/color-print/issues"
+  },
+  "homepage": "https://github.com/JorisCoppieters/color-print#readme"
+}
