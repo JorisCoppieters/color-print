@@ -9,4 +9,4 @@ color-print requires [Node.js](https://nodejs.org/) v4+ to run.
 Then:
 
 ```sh
-$ npm install --global color-print
+$ npm install color-print
